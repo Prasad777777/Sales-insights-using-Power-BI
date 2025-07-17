@@ -3,6 +3,9 @@
 ## Problem Statement:
 AtliQ hardware, a brick and mortar business specializing in hardware goods, is facing challenges in understanding and analyzing its sales trend. The current lack of visibility into the sales data hinders the business's ability to make informed decisions and take proactive measures to drive growth. Without a comprehensive understanding of the sales trend, AtliQ hardware struggles to identify patterns, anticipate customer demand, optimize inventory, and tailor marketing strategies effectively. As a result, the business is unable to capitalize on potential growth opportunities and achieve its revenue goals. To overcome these obstacles, AtliQ hardware recognizes the need to implement a solution that provides a clear and insightful view of the sales trend, enabling data-driven decision-making and facilitating strategic actions to increase revenue and improve overall performance.
 
+
+<img width="1271" height="744" alt="Screenshot 2025-07-17 230501" src="https://github.com/user-attachments/assets/eae7ae24-8917-46f4-9323-2378898ced2a" />
+
 ## Solution Approach:
 
 To address the problem statement, the following approach was used:
@@ -30,7 +33,8 @@ The third type of dashboard, "Performance Insights," focused on analyzing the pe
 
 Each dashboard was designed to be interactive, allowing users to filter and drill down into specific dimensions or time periods of interest.
 
-## Expected Outcome:
+##<img width="1269" height="735" alt="Screenshot 2025-07-17 230512" src="https://github.com/user-attachments/assets/2585b28f-acd3-4b79-990e-75be99f1c8a7" />
+Expected Outcome:
 By implementing the above solution approach, AtliQ hardware expects to achieve the following outcomes:
 
    * Enhanced Data Analysis: The connection between the SQL database and Power BI enables real-time or near-real-time analysis of the sales trend. The solution provides users with the ability to explore and analyze data more efficiently, leading to better insights and understanding.
